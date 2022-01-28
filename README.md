@@ -51,7 +51,7 @@
 
 ### Deployment Dont Deploy on this URL `Deploy on Brach`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sadew451/Natsuki.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Test672u2/Natsukibot)
 
 
 # Deploy Guide
